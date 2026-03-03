@@ -1,4 +1,4 @@
-![Medical_powerbi](https://github.com/user-attachments/assets/04e3ee06-21de-40e4-b947-9e2a0a17e96a)# Medical-Certification-Changes-Analysis
+# Medical-Certification-Changes-Analysis
 
 ### Project Overview
 
