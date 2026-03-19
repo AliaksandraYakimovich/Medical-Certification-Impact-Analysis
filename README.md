@@ -38,4 +38,5 @@ The analysis is based on two primary datasets:
 
 * **Power BI: Used to create the final interactive dashboard, utilizing DAX (Data Analysis Expressions) to calculate historical vs. modern pass rates and performance trends.**
 
-![Medical_powerbi](https://github.com/user-attachments/assets/28aa2885-9f6a-4ac8-9cd1-f20d333ae880)
+<img width="1267" height="715" alt="power_bi" src="https://github.com/user-attachments/assets/5c12389e-cc50-4793-be54-d99b99383a03" />
+
