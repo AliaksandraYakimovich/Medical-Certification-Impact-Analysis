@@ -19,11 +19,14 @@ The analysis focuses on answering the following:
 * **Policy Justification: Were physicians' complaints about the increased burden justified, or did the board achieve its goal of increasing the quality of care?**
 
 ## <b>Key Insights</b>
-
-* **MOC Effectiveness Confirmed:** The "sawtooth" pattern in the line chart proves that mandatory Maintenance-of-Certification (MOC) exams successfully mitigate knowledge decay. Performance dips as physicians approach the 5-year mark, followed by a significant rebound immediately after recertification.
-* **Higher Standard, Lower Pass Rate:** Following the introduction of the oral exam (Pre-1990 vs Post-1990), the "Modern Pass Rate" dropped to **65.93%**, compared to the historical **94.86%**. This confirms the certification process became significantly more stringent.
-* **Validation of Reform:** While the new exams are difficult, they effectively filter for quality. Post-1990, even those who initially struggle to pass maintain a high average adherence score (~69), suggesting the reforms successfully removed "low quality" from the practice.
-* **Valid Proxy:** Passing the exam on the first attempt was a valid proxy for quality, with a consistent 10-point gap in adherence before 1990.
+Based on the analysis of the certification data, we can draw several critical conclusions regarding the impact of the 1990 certification reform:
+* The 1990 Reform Drastically Raised the Bar: The introduction of the new exam format (Pre-1990 vs. Post-1990) created a significant bottleneck. The historical First-Attempt Pass Rate plummeted from 94.86% to 65.93% (see KPI cards and Top-Left timeline). This confirms that the new certification process became a much more stringent filter for medical professionals.
+* **The "Floor" of Medical Quality was Raised:
+Pre-1990, passing the exam on the first attempt was a strict proxy for quality—there was a massive ~12-point gap in Adherence Scores between those who passed and those who failed.
+Post-1990, this gap almost completely disappeared (see Top-Right chart). Even candidates who initially failed the new, harder exam maintain a high average adherence score (~70+). This proves the reform successfully eliminated "low-quality" practices from the cohort.
+* **Validation of Maintenance-of-Certification (MOC):
+The long-term performance trajectory (Bottom-Left chart) reveals a distinct "sawtooth" pattern. We observe a natural decay in Adherence Scores as physicians approach the 5-year mark post-certification, followed by a noticeable rebound. This data empirically validates the necessity of periodic re-certification to mitigate knowledge decay and maintain medical standards.
+* **Strategic Conclusion: While the post-1990 exams are demonstrably harder and lower the immediate pass rate, they function exactly as intended. They act as a strict gatekeeper that ensures a uniformly high standard of medical adherence across the board, regardless of whether a physician passes on their first or subsequent attempts.
 
 <img width="1276" height="716" alt="bi_report" src="https://github.com/user-attachments/assets/23886ea2-b26a-44a1-acfd-3e3162ad1891" />
 
