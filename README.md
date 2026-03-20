@@ -25,7 +25,8 @@ The analysis focuses on answering the following:
 * **Validation of Reform:** While the new exams are difficult, they effectively filter for quality. Post-1990, even those who initially struggle to pass maintain a high average adherence score (~69), suggesting the reforms successfully removed "low quality" from the practice.
 * **Valid Proxy:** Passing the exam on the first attempt was a valid proxy for quality, with a consistent 10-point gap in adherence before 1990.
 
-<img width="1267" height="715" alt="power_bi" src="https://github.com/user-attachments/assets/5c12389e-cc50-4793-be54-d99b99383a03" />
+[report.pdf](https://github.com/user-attachments/files/26139005/report.pdf)
+
 
 
 ### <b>Data Description</b>
